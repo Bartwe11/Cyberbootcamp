@@ -1,2 +1,3 @@
 # Cyberbootcamp
-## Assignments for school ##
+## Assignments for school
+
